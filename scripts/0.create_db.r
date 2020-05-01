@@ -1,6 +1,7 @@
 
 # endei ii ------------------------------------------------------------------------------
 
+# prueba g it
 path = getwd()
 source('scripts/libraries.r')
 
